@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, JavaScript, ReactJs**
+- 💬 Ask me about **Machine Learning, Deep Learning, Node js, JavaScript, ReactJs**
 
 - 📫 How to reach me **pitafishoiab@gmail.com**
 
