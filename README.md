@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoiab Ahmed</h1>
-<h3 align="center">Computer Science</h3>
+<h3 align="center">Machine Learning | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedshoiab&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedshoiab" /> </p>
 
